@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+}
+h1 {
+    color: red;
+    width: 450px;
+}
+h2{
+    color: brown
+}
+p{
+    padding: 30px, solid;
+    background-color: aqua;
+    width: 50%;
+}
+img{
+    width: 200px;
+    float: right;
+}
+td{
+    padding: 10px;
+}
+#Wikipedia-link{
+    float: left;
+}
+#Antwerpen{
+    float: left;
+}
